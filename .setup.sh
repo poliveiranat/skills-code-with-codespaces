@@ -1,4 +1,4 @@
-#!/bin/bash
+git commit -a#!/bin/bash
 
 sudo apt-get update
 sudo apt-get install sl
